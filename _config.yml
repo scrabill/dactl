@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "/dactl" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://m0nica.github.io" # the base hostname & protocol for your site
+url                          : "https://scrabill.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Monica Powell
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  fullname                  : Shannon Crabill
+  rss                       : false # generate RSS feed and show it's icon in header
+  mail                      : shannon.crabill@gmail.com # change to your e-mail address
+  twitter                   : shannon_crabill
+  github                    : scrabill
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
